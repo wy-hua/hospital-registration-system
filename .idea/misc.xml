@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/common/common-util/pom.xml" />
         <option value="$PROJECT_DIR$/model/pom.xml" />
         <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service-hosp/pom.xml" />
       </list>
     </option>
   </component>
